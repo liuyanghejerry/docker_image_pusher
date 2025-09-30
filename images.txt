@@ -3,3 +3,4 @@
 --platform=linux/arm64 bitwardenrs/server
 --platform=linux/arm64 golang:1.10.3
 codercom/code-server
+docker.n8n.io/n8nio/n8n
