@@ -5,3 +5,4 @@
 codercom/code-server
 docker.n8n.io/n8nio/n8n
 postgres
+redis
