@@ -1,1 +1,1 @@
-privoce/vocechat-server
+mintplexlabs/anythingllm
