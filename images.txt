@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+mintplexlabs/anythingllm --platform=linux/arm64
