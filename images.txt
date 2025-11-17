@@ -1,1 +1,1 @@
---platform=linux/arm64 mintplexlabs/anythingllm
+--platform=linux/arm64 wantcat/trendradar
