@@ -1,1 +1,1 @@
-postgres:v15
+postgres:15
