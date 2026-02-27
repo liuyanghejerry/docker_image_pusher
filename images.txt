@@ -1,1 +1,1 @@
-postgres:15
+ghcr.io/zeroclaw-labs/zeroclaw:latest
