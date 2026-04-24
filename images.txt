@@ -1,1 +1,1 @@
-ghcr.io/zeroclaw-labs/zeroclaw:latest
+nousresearch/hermes-agent:latest
