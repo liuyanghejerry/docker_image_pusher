@@ -1,2 +1,2 @@
 nousresearch/hermes-agent:latest
-codeberg.org/forgejo/forgejo:15
+codeberg.org/forgejo/forgejo:15-rootless
