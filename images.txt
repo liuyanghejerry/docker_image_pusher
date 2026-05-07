@@ -1,1 +1,2 @@
 nousresearch/hermes-agent:latest
+codeberg.org/forgejo/forgejo:15
