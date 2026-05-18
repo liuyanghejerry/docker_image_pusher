@@ -1,2 +1,2 @@
-nousresearch/hermes-agent:latest
+nginx:alpine
 codeberg.org/forgejo/forgejo:15-rootless
