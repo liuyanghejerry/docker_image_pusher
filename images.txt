@@ -1,2 +1,2 @@
-nginx:alpine
 codeberg.org/forgejo/forgejo:15-rootless
+public.ecr.aws/zinclabs/openobserve
